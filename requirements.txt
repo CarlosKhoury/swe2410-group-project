@@ -9,6 +9,6 @@ cachetools>=4.0
 importlib-metadata>=1.4
 Flask
 pyotp>=2.9.0
-"qrcode[pil]>=7.4.0"
+qrcode[pil]>=7.4.0
 pyperclip>=1.8.0
 gunicorn
