@@ -4,6 +4,8 @@ A secure Flask-based password manager web app that allows users to store, organi
 
 This project replaces a previous Streamlit frontend with Flask for improved Python compatibility, better routing, and a more traditional web app experience.
 
+<img width="1882" height="856" alt="image" src="https://github.com/user-attachments/assets/ff8ad480-7538-48dc-9c1c-f365fdf3629f" />
+
 ---
 
 ## Features
