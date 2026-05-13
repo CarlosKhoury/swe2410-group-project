@@ -16,6 +16,9 @@ This project replaces a previous Streamlit frontend with Flask for improved Pyth
 - Session-based authentication
 - Logout support
 
+  <img width="1842" height="828" alt="image" src="https://github.com/user-attachments/assets/8ad8633b-775e-412d-8211-34f54f59d105" />
+
+
 ### Multi-Factor Authentication (MFA)
 - TOTP-based 2FA using authenticator apps
 - QR code generation for easy setup
